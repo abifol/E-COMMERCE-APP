@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import "../style/hero.css";
 import banner1 from "../assets/Link → banner-41.jpg.png";

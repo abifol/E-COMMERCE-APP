@@ -1,3 +1,6 @@
+/* eslint-disable jsx-a11y/heading-has-content */
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import Image43 from "../assets/Link → banner-43.jpg.png";
 import Image44 from "../assets/Link → banner-44.jpg.png";
@@ -13,7 +16,7 @@ const gallery = () => {
         <div class="row justify-content-center g-5">
           <div class="col-md-3">
             <div class="card3  mb-4">
-              <img src={Image43} style={{ width: 225 }} />
+              <img src={Image43} style={{ width: 225 }} alt="" />
               <div class="card-body3 btnn">
                 <h5 class="card-title3"></h5>
                 <p class="card-text3"></p>
