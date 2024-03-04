@@ -10,7 +10,7 @@ const banner = () => {
       <div class="row justify-content-center my-5 px-5 main">
         <div class="col-sm-4">
           <div class="card cardto ">
-            <img src={Topicon} />
+            <img src={Topicon} alt="" />
             <div class="card-body1 oil px-4">
               <h5 class="card-title title">Top quality</h5>
               <p class="card-text text">
@@ -21,7 +21,7 @@ const banner = () => {
         </div>
         <div class="col-sm-3">
           <div class="card cardt ">
-            <img src={Tshirt} />
+            <img src={Tshirt} alt="" />
             <div class="card-body1 tshirt px-4">
               <h5 class="card-title title">Mix and match</h5>
               <p class="card-text text">
@@ -32,7 +32,7 @@ const banner = () => {
         </div>
         <div class="col-sm-3">
           <div class="card cardb">
-            <img src={Boxicon} />
+            <img src={Boxicon} alt="" />
             <div class="card-body1 box px-4 ">
               <h5 class="card-title title">Shipping worldwide</h5>
               <p class="card-text text">

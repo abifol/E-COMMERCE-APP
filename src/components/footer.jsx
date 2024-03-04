@@ -45,7 +45,7 @@ const footer = () => {
                   <a
                     href="https://github.com/twbs/bootstrap/blob/main/LICENSE"
                     target="_blank"
-                    rel="license noopener"
+                    rel="noreferrer"
                   >
                     MIT
                   </a>
@@ -53,7 +53,7 @@ const footer = () => {
                   <a
                     href="https://creativecommons.org/licenses/by/3.0/"
                     target="_blank"
-                    rel="license noopener"
+                    rel="noreferrer"
                   >
                     CC BY 3.0
                   </a>
